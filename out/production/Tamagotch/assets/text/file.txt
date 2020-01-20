@@ -1,0 +1,10 @@
+35
+35
+35
+35
+125
+1
+false
+true
+false
+true
